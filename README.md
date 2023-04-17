@@ -4,3 +4,5 @@
 * Device Partition Info Collecting: [Summary](https://github.com/charlestw127/Digital-Forensics/blob/main/Hexedit%20exploration.pdf) | [Automation Program](https://github.com/charlestw127/Digital-Forensics/blob/main/Hexedit%20Diagnose.cpp)
 
 * Linux Inode & Block Identifier: [Summary](https://github.com/charlestw127/Digital-Forensics/blob/main/inode%20explore.pdf)
+
+* PNG Block Finder: [Python Code](https://github.com/charlestw127/Digital-Forensics/blob/main/find_blocks.py)
