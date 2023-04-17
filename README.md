@@ -5,4 +5,4 @@
 
 * Linux Inode & Block Identifier: [Summary](https://github.com/charlestw127/Digital-Forensics/blob/main/inode%20explore.pdf)
 
-* PNG Block Finder: [Summary]https://github.com/charlestw127/Digital-Forensics/blob/main/PNG%20Block%20Finder.pdf | [Python Code](https://github.com/charlestw127/Digital-Forensics/blob/main/find_blocks.py)
+* PNG Block Finder: [Summary](https://github.com/charlestw127/Digital-Forensics/blob/main/PNG%20Block%20Finder.pdf) | [Python Code](https://github.com/charlestw127/Digital-Forensics/blob/main/find_blocks.py)
