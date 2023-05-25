@@ -8,3 +8,5 @@
 * Indirect Block Counter: [C++ Code](https://github.com/charlestw127/Digital-Forensics/blob/main/indirectBlockCounter.cpp)
 
 * PNG Block Finder: [Summary](https://github.com/charlestw127/Digital-Forensics/blob/main/PNG%20Block%20Finder.pdf) | [Python Code](https://github.com/charlestw127/Digital-Forensics/blob/main/find_blocks.py)
+
+* PNG Recovery Program: [C++ Code](https://github.com/charlestw127/Digital-Forensics/blob/main/recovery.cpp)
